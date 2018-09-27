@@ -1,6 +1,6 @@
-# React Webpack Chat App
+# React Webpack Clicker App
 
-A React.js chat app using ChatKit in Pusher.
+A React.js clicker app.
 
 ## Instructions
 
